@@ -25,16 +25,12 @@ This repository contains a minimal and educational implementation of the Linear 
 Linear_Regression_Scratch/
 ├── data/
 │   └── (Optional CSV or generated dataset files)
-├── linear_regression.py
 ├── main.py
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
-- `linear_regression.py`: Contains the Linear Regression class with methods for training and prediction.
-- `main.py`: Script to load data, train the model, and evaluate results.
-- `data/`: Directory for datasets (if applicable).
-- `requirements.txt`: List of required Python packages.
+- `LR_Scratch.py`: Script to load data, train the model, and evaluate results.
+- `data/`: Put your csv file into same file with python code.
 
 ## 🧑‍💻 How to Run
 
